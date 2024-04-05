@@ -16,7 +16,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #67b0d1;
+  color: #ffffff;
 }
 
 a:hover {
@@ -322,7 +322,7 @@ h6 {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(43, 111, 142, 0.9);
+  background: rgba(255, 255, 255, 0.9);
   transition: 0.3s;
 }
 
@@ -349,13 +349,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #2f4d5a;
+  color: #ffffff;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #67b0d1;
+  color: #ffffff;
 }
 
 .navbar-mobile .getstarted,
@@ -415,7 +415,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background:  url("../img/Hero/H1.png") top center;
+  background:  url("../img/Hero/H2.JPG") top center;
   background-size: 100%; /* Adjust the value to zoom in or out */
   background-position: center; /* Center the background image */
   position: relative;
